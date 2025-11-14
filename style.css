@@ -32,7 +32,7 @@ body {
     min-height: 100vh;
     place-items: center;
     margin-block: auto;
-    font-family: "Outfit";
+    font-family: "Outfit", serif;
 }
 
 h1 { 
